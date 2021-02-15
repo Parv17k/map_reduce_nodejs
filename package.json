@@ -1,0 +1,25 @@
+{
+  "name": "map_reduce_nodejs",
+  "version": "1.0.0",
+  "description": "Small Map reduce like program to demonstrate Node.js Multithreading",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parv17k/map_reduce_nodejs.git"
+  },
+  "keywords": [
+    "Map",
+    "reduce",
+    "Multithreading"
+  ],
+  "author": "Parv Khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parv17k/map_reduce_nodejs/issues"
+  },
+  "homepage": "https://github.com/Parv17k/map_reduce_nodejs#readme"
+}
